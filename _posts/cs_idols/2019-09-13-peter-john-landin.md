@@ -1,33 +1,25 @@
 ---
-title: "Peter John Landin"
-subtitle: "「计算机科学偶像」- 彼得·约翰·兰丁"
 layout: post
+title: "为什么要加入我们"
+subtitle: "Among Us!"
 author: "Hux"
-published: false
-header-style: text
+header-img: "img/post-bg-web.jpg"
+header-mask: 0.4
 tags:
-  - CS Idols
+  - steam
+  - au
 ---
 
-> - [wiki](https://en.wikipedia.org/wiki/Peter_Landin)
-> - [维基](https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%85%B0%E4%B8%81)
+> 本网站使用了GitHub Pages;
 
-I was long curious about how does λ calculus become the foundation of formalizaing programming languages. It's strange that I haven't look up the answer until today: It's invented so early by Alonzo Church (whom I will write another post for) as an alternative mathematic foundation in 1930s and its relation with programming language was re-discoverred in 1960s.
+关于为什么期待你加入我们是因为如今AU的情况，树懒对'H系列'的打压，让手机玩家玩不到模组
 
-From the "Lambda calculus and programming languages" section of wikipedia page:
+我们想让更多玩家玩到优质模组
 
-> As pointed out by Peter Landin's 1965 paper "A Correspondence between ALGOL 60 and Church's Lambda-notation"
+这其中要感谢许多'开发者'良苦用心！
 
-I found this name quite familiar since I read his paper "The mechanical evaluation of expressions" before, in which he introduced the first abstract machine for functional programming language, namely [SECD machine](https://en.wikipedia.org/wiki/SECD_machine). This paper also define the term [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming)) which becomes a prevalent notion in computer programming nowadays.
+MM SM AUM等外挂问题，让AU生态变坏
 
-Besides of that, his contributions also include:
+这才出现了我们与数以万计群和up，让更多人玩到好的优质的模组!
 
-- on ALGO definition
-- [ISWIM](https://en.wikipedia.org/wiki/ISWIM) programming language
-- [off-side rule](https://en.wikipedia.org/wiki/Off-side_rule), known as "indentation-based" syntax nowadays, popularized by Miranda, Haskell, Python, etc.
-- coin the term [syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar)
-
-He was much influenced by a study of McCarthy's LISP and taught [Tony Hoare](https://en.wikipedia.org/wiki/Tony_Hoare) ALGO with Peter Naur and Edsger W. Dijkstra. (Oh yes, definitely 4 more people to write).
-
-I have just download his old, influential paper "The next 700 programming languages".
-I am sure it will be an enjoyable read.
+**我们期待你的加入！**
