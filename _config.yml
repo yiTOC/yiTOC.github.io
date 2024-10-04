@@ -1,9 +1,9 @@
 # Site settings
 title: 潘江的AU大本营群号：698395477
-SEOTitle: 椅子 | Hux Blog
+SEOTitle: 椅子 | 群宣传
 header-img: img/home-bg.jpg
 email: kaixinguo_0114@qq.com
-description: "这里是 椅子 的个人博客（宣传群的）"
+description: "这里是 椅子 的《个人》博客（宣传群的）"
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -73,7 +73,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "要做一个有摆烂心里的椅子 <br> React Team @ Meta"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
