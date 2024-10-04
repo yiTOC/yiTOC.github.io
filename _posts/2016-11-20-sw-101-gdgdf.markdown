@@ -1,47 +1,25 @@
 ---
-layout:     keynote
-title:      "Service Worker 101「GDG DevFest 2016 北京」"
-subtitle:   "🎞  Slides:Service Worker 101, Working Offline and Instant Loading (GDG DevFest 2016 Beijing)"
-iframe:     "//huangxuan.me/sw-101-gdgdf/"
-navcolor:   "invert"
-date:       2016-11-20
-author:     "Hux"
+layout: post
+title: "为什么要加入我们"
+subtitle: "Among Us!"
+author: "Hux"
+header-img: "img/post-bg-web.jpg"
+header-mask: 0.4
 tags:
-    - Slides
-    - Web
-    - PWA
+  - steam
+  - au
 ---
 
+> 本网站使用了GitHub Pages;
 
-> 下滑这里查看更多内容
+关于为什么期待你加入我们是因为如今AU的情况，树懒对'H系列'的打压，让手机玩家玩不到模组
 
+我们想让更多玩家玩到优质模组
 
-TLDR; It covers lots of cool stuff about Service Worker!
+这其中要感谢许多'开发者'良苦用心！
 
-### [Watching Fullscreen → ](https://huangxuan.me/sw-101-gdgdf/)
+MM SM AUM等外挂问题，让AU生态变坏
 
-<div class="visible-md visible-lg">
-    <img src="//huangxuan.me/sw-101-gdgdf/attach/qrcode.png" width="350" />
-    <small class="img-hint">Scanning on mobile</small>
-</div>
+这才出现了我们与数以万计群和up，让更多人玩到好的优质的模组!
 
-
-
-### [Demo Code → ](https://github.com/Huxpro/sw-101-gdgdf)
-
-- Hello World of Service Worker
-- Make your own Offline Dinosaurs
-- Stale/Fastest while revalidate
-
-
-
-### Notes  
-
-This slides is powered by [Yanshuo.io (演说.io)](http://yanshuo.io), a online software helping you create, store and share web slides. 
-
-There are 2 ways that you can fork or contribute this project:
-
-1. `index.html` is the HTML source code exported from [Yanshuo.io](http://yanshuo.io), and many of its dependencis (js, css, fonts) are still linked to CDN of [Yanshuo.io](http://yanshuo.io). You can do any secondary development and host it by yourself.
-2. Download the project file under `shuo/`, drag it into [Yanshuo.io](http://yanshuo.io), and you are ready to go. You can edit whatever you want, upload it to your account, and even share your distributions.
-
-
+**我们期待你的加入！**
