@@ -1,26 +1,25 @@
 ---
-layout:       post
-title:        "饿了么的 PWA 升级实践"
-subtitle:     "Upgrading Ele.me to Progressive Web App"
-date:         2017-07-12 12:00:00
-author:       "Hux"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
-header-mask:  0.3
-catalog:      true
-multilingual: true
+layout: post
+title: "为什么要加入我们"
+subtitle: "Among Us!"
+author: "Hux"
+header-img: "img/post-bg-web.jpg"
+header-mask: 0.4
 tags:
-    - Web
-    - PWA
+  - steam
+  - au
 ---
 
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include posts/2017-07-12-upgrading-eleme-to-pwa/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
-</div>
+> 本网站使用了GitHub Pages;
 
-<!-- English Version -->
-<div class="en post-container">
-    {% capture about_en %}{% include posts/2017-07-12-upgrading-eleme-to-pwa/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
-</div>
+关于为什么期待你加入我们是因为如今AU的情况，树懒对'H系列'的打压，让手机玩家玩不到模组
+
+我们想让更多玩家玩到优质模组
+
+这其中要感谢许多'开发者'良苦用心！
+
+MM SM AUM等外挂问题，让AU生态变坏
+
+这才出现了我们与数以万计群和up，让更多人玩到好的优质的模组!
+
+**我们期待你的加入！**
