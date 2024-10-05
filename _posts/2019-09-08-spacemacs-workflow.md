@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "为什么要加入我们"
+title: "炸房常见现象"
 subtitle: "Among Us!"
 author: "Hux"
 header-img: "img/post-bg-web.jpg"
